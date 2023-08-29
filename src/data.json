@@ -1,0 +1,62 @@
+[
+  [
+    {
+      "row": 0,
+      "col": 0,
+      "status": "close",
+      "value": 1
+    },
+    {
+      "row": 0,
+      "col": 1,
+      "status": "close",
+      "value": -1
+    },
+    {
+      "row": 0,
+      "col": 2,
+      "status": "close",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "row": 1,
+      "col": 0,
+      "status": "close",
+      "value": 2
+    },
+    {
+      "row": 1,
+      "col": 1,
+      "status": "close",
+      "value": 3
+    },
+    {
+      "row": 1,
+      "col": 2,
+      "status": "close",
+      "value": -1
+    }
+  ],
+  [
+    {
+      "row": 2,
+      "col": 0,
+      "status": "close",
+      "value": 1
+    },
+    {
+      "row": 2,
+      "col": 1,
+      "status": "close",
+      "value": -1
+    },
+    {
+      "row": 2,
+      "col": 2,
+      "status": "close",
+      "value": 2
+    }
+  ]
+]
