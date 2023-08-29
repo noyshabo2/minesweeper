@@ -101,7 +101,6 @@ export const GameContextProvider = (props) => {
     const directions = [-1, 0, 1];
     for (const rowNeighbor of directions) {
       for (const colNeighbor of directions) {
-        console.log("loop", rowNeighbor, colNeighbor);
         revealNeighbors(
           { row: rowNeighbor + row, col: colNeighbor + col },
           currBoard
